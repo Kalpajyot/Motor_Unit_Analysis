@@ -1,5 +1,4 @@
 nb_trial = TrialRecord.CurrentTrialNumber;
-
 x = cell(1,nb_trial);
 y = cell(1,nb_trial);
 
